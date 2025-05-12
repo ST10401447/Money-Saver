@@ -1,1 +1,1 @@
-Money Sver
+Money saver application
